@@ -1,3 +1,6 @@
 Esta es la declaracion de una persona
 Tengo 48 años
-vivi en Buenos Aires
+
+vivo en la ciudad de Buenos Aires
+
+Viviendo en el barrio de caballito
