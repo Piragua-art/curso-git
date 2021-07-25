@@ -1,7 +1,7 @@
 Mi nombre es: Gustavo
 
-Mi direccion es: Yerbal
+Mi direccion es:
 
-mi edad es :
+mi edad es : 48
 
-Mi cel. es :
+Mi cel. es : 1234-5678
